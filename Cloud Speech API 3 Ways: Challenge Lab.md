@@ -13,21 +13,21 @@ gcloud compute ssh lab-vm
 
 
 ```bash
-export API_KEY=""
+export API_KEY="AIzaSyBCJfyqe2nDNI703xiXkMr-_wuoik83lkI"
 
-task_2_file_name=""
+task_2_file_name="synthesize-text.txt"
 
-task_3_request_file=""
+task_3_request_file="speech_request.json"
 
-task_3_response_file=""
+task_3_response_file="response_fr.json"
 
-task_4_sentence=""
+task_4_sentence="これは日本語です。"
 
-task_4_file=""
+task_4_file="translation_response.txt"
 
-task_5_sentence=""
+task_5_sentence="Este%é%japonês."
 
-task_5_file=""
+task_5_file="detection_response.txt"
 ```
 
 ### Just copy & Paste on your SSH
